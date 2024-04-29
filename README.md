@@ -1,0 +1,1 @@
+# vmalerts-config
